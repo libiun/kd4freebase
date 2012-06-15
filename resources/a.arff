@@ -1,0 +1,37 @@
+@relation mydataset
+
+@attribute p2 numeric
+@attribute p1 string
+@attribute master string
+
+@data
+1,'United States of America',/en/united_states
+49,Germany,/en/germany
+61,Australia,/en/australia
+98,Iran,/en/iran
+44,'United Kingdom',/en/united_kingdom
+852,'Hong Kong',/en/hong_kong
+354,Iceland,/en/iceland
+33,France,/en/france
+91,India,/en/india
+1,Canada,/en/canada
+7,Russia,/en/russia
+81,Japan,/en/japan
+39,Italy,/en/italy
+63,Philippines,/en/philippines
+27,'South Africa',/en/south_africa
+66,Thailand,/en/thailand
+48,Poland,/en/poland
+44,England,/en/england
+353,'Republic of Ireland',/en/republic_of_ireland
+55,Brazil,/en/brazil
+54,Argentina,/en/argentina
+32,Belgium,/en/belgium
+31,Netherlands,/en/netherlands
+45,Denmark,/en/denmark
+46,Sweden,/en/sweden
+90,Turkey,/en/turkey
+58,Venezuela,/en/venezuela
+850,'North Korea',/en/north_korea
+82,'South Korea',/en/south_korea
+52,Mexico,/en/mexico

@@ -1,0 +1,39 @@
+@relation mydataset
+
+@attribute col0 numeric
+@attribute col1 string
+@attribute col2 numeric
+@attribute col3 string
+@attribute col4 string
+
+@data
+1,'United States of America',1,'United States of America',/en/united_states
+49,Germany,49,Germany,/en/germany
+61,Australia,61,Australia,/en/australia
+98,Iran,98,Iran,/en/iran
+44,'United Kingdom',44,'United Kingdom',/en/united_kingdom
+?,'Hong Kong',?,'Hong Kong',/en/hong_kong
+?,Iceland,?,Iceland,/en/iceland
+33,France,33,France,/en/france
+91,India,91,India,/en/india
+1,Canada,1,Canada,/en/canada
+7,Russia,7,Russia,/en/russia
+81,Japan,81,Japan,/en/japan
+39,Italy,39,Italy,/en/italy
+?,Philippines,?,Philippines,/en/philippines
+27,'South Africa',27,'South Africa',/en/south_africa
+66,Thailand,66,Thailand,/en/thailand
+48,Poland,48,Poland,/en/poland
+?,England,?,England,/en/england
+353,'Republic of Ireland',353,'Republic of Ireland',/en/republic_of_ireland
+?,Brazil,?,Brazil,/en/brazil
+54,Argentina,54,Argentina,/en/argentina
+?,Belgium,?,Belgium,/en/belgium
+?,Netherlands,?,Netherlands,/en/netherlands
+45,Denmark,45,Denmark,/en/denmark
+46,Sweden,46,Sweden,/en/sweden
+?,Turkey,?,Turkey,/en/turkey
+?,Venezuela,?,Venezuela,/en/venezuela
+?,'North Korea',?,'North Korea',/en/north_korea
+82,'South Korea',82,'South Korea',/en/south_korea
+52,Mexico,52,Mexico,/en/mexico

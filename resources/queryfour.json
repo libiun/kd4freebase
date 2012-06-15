@@ -1,0 +1,20 @@
+[{
+  "a:contains": [{
+    "p1:name":   null,
+    "id":     null,
+    "name~=": "^Red",
+    "type":   "/location/citytown"
+  }],
+  "b:contains": [{
+    "p2:name":   null,
+    "id":     null,
+    "name~=": "^Blue",
+    "type":   "/location/citytown"
+  }],
+  "b:type": "/location/us_state",
+  "p0:name":   null,
+  "id":     null,
+  "type":   "/location/location"
+}]​
+//U.S.states contains cities whose names start with 'Blue' or 'rea'
+//the prefix a,b not contained by the resultset, just p0 included

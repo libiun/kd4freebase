@@ -1,0 +1,15 @@
+[{
+  "p1:/people/person/date_of_birth": null,
+  "/people/person/date_of_birth<": "1970",
+  "/people/person/date_of_birth>=": "1960",
+  "p2:film": {
+    "p3:film": null,
+    "p4:id":      null,
+    "actor":    [],
+    "limit":   1
+  },
+  "limit":         2,
+  "p0:name":       null,
+  "id":            null,
+  "type":          "/film/actor"
+}]​
